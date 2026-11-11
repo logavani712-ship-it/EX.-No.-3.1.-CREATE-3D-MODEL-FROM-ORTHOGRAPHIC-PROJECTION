@@ -1,6 +1,7 @@
 # EX. No.3.1. CREATE 3D MODEL FROM ORTHOGRAPHIC PROJECTION
-## DATE:
-
+#### Name:Logavani D 
+#### Ref no:26018671
+#### Date:2.11.2026
 ## AIM:
 To create a 3D model from given orthographic projection.
 
@@ -11,36 +12,34 @@ To create a 3D model from given orthographic projection.
 4. 2.5 Mbps or faster download; 500 Kbps or faster upload 
 
 ## PROCEDURE:
-1.	Open new file and then select sketch icon.
-2.	Select the plane for sketching. 
-3.	Use sketching features (line, circle, arc, rectangle, polygon, etc.,) to draw the given sketch.
+1.Select a suitable metal blank and cut it to approximate size.
 
-![image](https://user-images.githubusercontent.com/113594316/198551199-8d9b7f6c-6ea7-4d59-8e8c-173f2b5e088f.png)
+2.Face the blank and mark the main body and shank dimensions.
 
-4.	Use sketch modifying features (cut, trim, mirror, move, etc.,) to edit the sketch.
+3.Machine the body to 52 mm length and 40 mm width.
 
-![image](https://user-images.githubusercontent.com/113594316/198551220-c7aa6694-4427-48e2-9d91-cd7e9615d651.png)
+4.Machine the rounded end to R16 mm.
 
-5.	Use inspect feature to measure the dimensions of sketch.
+5.Turn the shank to Ø18 mm diameter and 32 mm length.
 
-![image](https://user-images.githubusercontent.com/113594316/198551270-45875855-43a7-4471-af35-bd10cd9dd153.png)
+6.Mark the fork slot centrally on the body.
 
-6.	After finishing the sketch use finish sketch option to finalize the sketch.
+7.Mill the slot to 18 mm width, leaving equal fork arms.
 
-![image](https://user-images.githubusercontent.com/113594316/198551309-8d7ac6c8-6740-479f-8186-195c89823fda.png)
+8.Drill the aligned holes in both fork arms to Ø16 mm, with the hole centre 36 mm from the shoulder.
 
-7.	Use extrude option to convert 3D model from sketch
+9.Deburr and smooth all machined edges.
 
-![image](https://user-images.githubusercontent.com/113594316/198551340-fe1f3b48-df79-44ef-a4ae-ff1cd22503ea.png)
+10.Inspect the finished part and check the dimensions against the drawing.
 
-8.	After finishing the model convert to drawing sheet per  ISO standard.
-
-![image](https://user-images.githubusercontent.com/113594316/198551370-54509915-ec69-4862-9c17-156d61a83b11.png)
 
 ## INPUT:
 ![image](https://user-images.githubusercontent.com/113594316/198551872-276f8b80-bea8-4d4a-b2e8-bfdcd1e9d3cc.png)
 
 ## OUTPUT:
+<img width="1026" height="720" alt="image" src="https://github.com/user-attachments/assets/d6981b14-b5c5-4b90-b0e8-b1c88ce22506" />
+
+<img width="922" height="638" alt="Screenshot 2026-11-11 212948" src="https://github.com/user-attachments/assets/16bc1042-4c0f-4da9-a097-ef3c3305f2dd" />
 
 ## RESULT:
 Thus, 3D model is created from orthographic projection.
